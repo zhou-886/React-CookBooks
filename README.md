@@ -1,7 +1,7 @@
 # React-CookBooks
 项目下载到本地后终端执行
-'yarn add'
+`yarn add`
 启动接口数据
-'yarn mock'
+`yarn mock`
 启动项目
-'yarn start'
+`yarn start`
